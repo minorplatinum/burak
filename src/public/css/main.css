@@ -1,0 +1,8 @@
+body {
+    background-color: rgb(221, 244, 72);
+}
+
+body .format1 {
+    font-size: small;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
